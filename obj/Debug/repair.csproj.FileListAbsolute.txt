@@ -1,0 +1,283 @@
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+D:\Бесова\repair\repair\obj\Debug\repair.Аuth.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Manager_menu.resources
+D:\Бесова\repair\repair\obj\Debug\repair.NewExecutor.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Order.resources
+D:\Бесова\repair\repair\obj\Debug\repair.Properties.Resources.resources
+D:\Бесова\repair\repair\obj\Debug\repair.User_windows.resources
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+D:\Бесова\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\Артем\Downloads\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\it-student.MEPHI3.000\Desktop\worknotwolk-main_1 (1)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewClient.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.QRcod.resources
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Артем\Desktop\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CopyComplete
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\BouncyCastle.Crypto.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\itextsharp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Pdf.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.XLS.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.mshtml.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\itextsharp.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Pdf.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.XLS.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.SuggestedBindingRedirects.cache
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Executor_menu.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewClient.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.QRcod.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.XslReport.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CopyComplete
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.SpareParts.resources
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\libHarfBuzzSharp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\x86\libHarfBuzzSharp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\x64\libHarfBuzzSharp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\arm64\libHarfBuzzSharp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\libHarfBuzzSharp.dylib
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.Interfaces.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.System.Drawing.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\HarfBuzzSharp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Extends.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Barcode.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Doc.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.DocViewer.Forms.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Email.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.OfficeViewer.Forms.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Asp.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Forms.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Presentation.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Buffers.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.ComponentModel.Annotations.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.IO.Packaging.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Memory.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Numerics.Vectors.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\HarfBuzzSharp.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Barcode.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Doc.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Email.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.OfficeViewer.Forms.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Asp.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Forms.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Presentation.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Buffers.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Memory.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Numerics.Vectors.xml
+D:\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\libHarfBuzzSharp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\itextsharp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Extends.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Barcode.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Doc.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Email.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.OfficeViewer.Forms.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Pdf.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Presentation.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.XLS.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Buffers.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.IO.Packaging.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Memory.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\itextsharp.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Barcode.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Doc.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Email.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.OfficeViewer.Forms.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Pdf.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Presentation.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.XLS.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Buffers.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Memory.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Executor_menu.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewClient.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.QRcod.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.SpareParts.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.XslReport.resources
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CopyComplete
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\Артем\Desktop\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\libHarfBuzzSharp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe.config
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.exe
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\repair.pdb
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\itextsharp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Extends.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Barcode.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Doc.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.DocViewer.Forms.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Email.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.OfficeViewer.Forms.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Pdf.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Presentation.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.XLS.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Buffers.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.IO.Packaging.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Memory.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\EPPlus.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\HarfBuzzSharp.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\itextsharp.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Barcode.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Doc.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Email.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.OfficeViewer.Forms.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Pdf.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.Presentation.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\Spire.XLS.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Buffers.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Memory.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.AssemblyReference.cache
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Аuth.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditOrder.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.EditProblem.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Executor_menu.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Manager_menu.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewClient.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewExecutor.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.NewProblem.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Order.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.Properties.Resources.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.QRcod.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.SpareParts.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.User_windows.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.XslReport.resources
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.GenerateResource.cache
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.csproj.CopyComplete
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.exe
+C:\Users\Артем\Downloads\Telegram Desktop\worknotwolk-main (2) (2)\worknotwolk-main (2)\worknotwolk-main\worknotwolk-main\repair\repair\repair\repair\obj\Debug\repair.pdb
